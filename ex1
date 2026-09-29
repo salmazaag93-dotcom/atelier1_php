@@ -1,0 +1,8 @@
+A il manque le $
+$ABC valide
+$A B non valide pas éspace,
+$1A non valide il faut commencer par une lettre;
+$_VAR non valide il faut commencer par une lettre
+$1_Var , $_1VAR, non valide
+$prénom valide
+$nom*matriclue non valide pas de caractère spéciaux
